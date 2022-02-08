@@ -1,0 +1,1154 @@
+[
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Active",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expired",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Expiring",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Apparel",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Dining",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Entertainment",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Miscellaneous",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Personal Service",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Retail",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Hotels",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "LongTail",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "Niche",
+    "offerChannel": "Offline"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Online"
+  },
+  {
+    "status": "Suspended",
+    "category": "Travel Others",
+    "merchantSegment": "Popular",
+    "offerChannel": "Offline"
+  }
+]

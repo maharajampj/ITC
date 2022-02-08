@@ -1,6 +1,7 @@
 package com.createCombination;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -13,20 +14,24 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.utilities.readFile;
+import com.utilities.writeFile;
 
 public class workingMagic {
 
-	public static void main(String args[]) throws FileNotFoundException {
+	public static void main(String args[]) throws IOException {
 		readFile read = new readFile();
+		writeFile write=new writeFile();
 		JsonObject obj = read.readJson("testData.json");
 		System.out.println(consolidatedList(obj));
 		List<List<String>> listString = printCombinations(consolidatedList(obj), obj);
 		List<List<String>>output=filterCombinations(listString, nodeObjectList(obj), obj);
-		System.out.println(listString);
+		//System.out.println(listString);
 		System.out.println(output.size());
-		System.out.println(output);
+		//System.out.println(output);
 		System.out.println("<================================>");
-		System.out.println(creatJsonArray(output,obj));
+		//System.out.println(creatJsonArray(output,obj));
+		JsonArray arr=creatJsonArray(output,obj);
+		write.writeJson(arr, "offerHub.json");
 	}
 	
 	static List<List<String>> nodeObjectList(JsonObject obj)
@@ -43,7 +48,7 @@ public class workingMagic {
 		}
 		return nodeObj;
 	}
-	static List<String> consolidatedList(JsonObject obj)
+	protected static List<String> consolidatedList(JsonObject obj)
 	{
 		List<String> listObj = new ArrayList<>();
 		Iterator it = obj.keySet().iterator();
@@ -55,7 +60,7 @@ public class workingMagic {
 		}
 		return listObj;
 	}
-	static List<List<String>> printCombinations(List<String> sequence, JsonObject obj) {
+	protected static List<List<String>> printCombinations(List<String> sequence, JsonObject obj) {
 
 		List<List<String>> combinations = Generator.combination(sequence).simple(obj.size()).stream()
 				.collect(Collectors.toList());

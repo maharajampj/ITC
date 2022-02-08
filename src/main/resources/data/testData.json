@@ -1,5 +1,6 @@
 {
-"a":["1","2","3"],
-"b":["4","5"],
-"c":["6"]
+"status":["Active","Expired","Expiring","Suspended"],
+"category":["Apparel","Dining","Entertainment","Miscellaneous","Personal Service","Retail","Travel Hotels","Travel Others"],
+"merchantSegment":["LongTail","Niche","Popular"],
+"offerChannel":["Online","Offline"]
 }
